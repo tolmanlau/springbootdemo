@@ -18,7 +18,11 @@ target/
 *.iws
 *.iml
 *.ipr
-
+.idea/*
+.springbootdemo.iml
+target/*
+mvnw
+.mvn/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
